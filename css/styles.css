@@ -1,18 +1,22 @@
-body{ background:#efefef; margin:0 auto;Max-width:600px;}
-*{margin:0;padding:0;border:0;text-de
-coration:none;-webkit-tap-highlight-color:rgba(0,0,0,0);background-color:rgba(0,0,0,0);color:#000000}
-
-.top {padding-bottom:20px;text-align:center;box-shadow:0px 0px 5px 1px #adadad;background:url(http://img5.imgtn.bdimg.com/it/u=95854919,3642658272&fm=23&gp=0.jpg);background-size:100% 100%}
-.top img{width:60px;margin-top:100px}
-
-.top span {display:block;margin:20px;color:#000000;font-size:14px}
-.top p{padding-bottom:20px;font-size:14px}
-.top a{background:#000000;display:block;padding:10px;margin:0px 40px 0px 40px;color:#ffffff;box-shadow:0px 0px 10px #cccccc;border-radius:3px;font-size:14px}
-.top a:hover{background:#000000;}
-
-.show {background:#ffffff;margin:15px;border-radius:3px;padding:10px;box-shadow:0px 1px 3px #000000;min-height:50px}
-.show p{border-left:solid #0069FF 6px;font-size:16px;padding-left:10px;color:#0069FF}
-.show span {font-size:15px;display:block;margin-top:10px;padding-left:10px;line-height:25px}
-.pic {padding-top:10px;margin:-5px}
-.pic td{padding:2px;width:33.33%}
-.pic img{width:100%;height:300px;box-shadow:0px 3px 3px #e0e0e0}
+body{
+  padding:0;
+  margin:0;
+}
+img{
+  margin-top: 30px;
+}
+.xz{
+  text-align: center;
+}
+ .xz a{
+                padding:10px 35px;
+                border:1px solid #ddd;
+                background:rgb(253, 219, 111);
+                display: inline-block;
+                margin-bottom: 40px;
+                font-size: 1.1em;
+                border-radius: 5px;
+                color:#333;
+                min-width:100px;
+				text-decoration: none;
+    }
